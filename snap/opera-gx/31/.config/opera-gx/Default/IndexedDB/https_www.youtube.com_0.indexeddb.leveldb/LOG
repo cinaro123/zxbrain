@@ -1,0 +1,21 @@
+2026/08/31-00:21:18.285 4c05 Reusing MANIFEST /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/31-00:21:18.285 4c05 Recovering log #11
+2026/08/31-00:21:18.285 4c05 Reusing old log /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2026/08/31-00:37:49.405 4c05 Level-0 table #16: started
+2026/08/31-00:37:49.414 4c05 Level-0 table #16: 1364344 bytes OK
+2026/08/31-00:37:49.418 4c05 Delete type=0 #11
+2026/08/31-00:41:32.270 4c05 Compacting 1@1 + 1@2 files
+2026/08/31-00:41:32.276 4c05 Generated table #17@1: 682 keys, 115681 bytes
+2026/08/31-00:41:32.276 4c05 Compacted 1@1 + 1@2 files => 115681 bytes
+2026/08/31-00:41:32.278 4c05 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/31-00:41:32.278 4c05 Delete type=2 #16
+2026/08/31-00:41:32.278 4c05 Delete type=2 #13
+2026/08/31-00:53:59.827 4c2d Level-0 table #19: started
+2026/08/31-00:53:59.836 4c2d Level-0 table #19: 1067852 bytes OK
+2026/08/31-00:53:59.839 4c2d Delete type=0 #15
+2026/08/31-00:58:44.939 4c05 Compacting 1@1 + 1@2 files
+2026/08/31-00:58:44.945 4c05 Generated table #20@1: 792 keys, 108456 bytes
+2026/08/31-00:58:44.945 4c05 Compacted 1@1 + 1@2 files => 108456 bytes
+2026/08/31-00:58:44.947 4c05 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/31-00:58:44.948 4c05 Delete type=2 #17
+2026/08/31-00:58:44.948 4c05 Delete type=2 #19

@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/logo_128.png"
+      },
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "./background.js"
+   },
+   "commands": {
+      "do-a": {
+         "description": "Action A",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      },
+      "do-s": {
+         "description": "Action S",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      },
+      "do-w": {
+         "description": "Action W",
+         "suggested_key": {
+            "default": "Alt+W"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "icons/logo_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqZf2G1VmUVDkH2UOI96/mH0Uf6snDpmC2EjtMvudbX5WnmDaJy+4IYuSlDXUzsG+EM0OFmG6PJOfPu+tWYQcaUmDJ8i21KLW0996oDvneEMyTY/L5nZtSTFstPGrbSixzwRew1UIXU6gzyZNop2p1+83xDqzZI80uVfdKR4O5ddVx2sgmmkPWQfSaNmS0G8c0Or1p3ePUvXyn3ZWhx21xAso6f73VM7BiyclyF5GZeDeh8NFbMR0jXkkGEWDcusV6XQSR08RJSr/FRqxp+L+dwah149kQUJNOfloa+1DCP2KE2eiT4FuJoKRNQoaV7P1sRxclv1uvkzzUd/BSR4pBQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "offscreen", "tabCapture", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

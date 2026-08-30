@@ -1,0 +1,9 @@
+2026/08/31-00:08:23.313 5 Reusing MANIFEST /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/31-00:08:23.318 5 Recovering log #8
+2026/08/31-00:08:23.318 5 Reusing old log /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/Local Storage/leveldb/000008.log 
+2026/08/31-00:22:31.410 7 Level-0 table #12: started
+2026/08/31-00:22:31.412 7 Level-0 table #12: 23601 bytes OK
+2026/08/31-00:22:31.415 7 Delete type=0 #8
+2026/08/31-00:49:15.998 7 Level-0 table #14: started
+2026/08/31-00:49:16.000 7 Level-0 table #14: 15961 bytes OK
+2026/08/31-00:49:16.003 7 Delete type=0 #11

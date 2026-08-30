@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": "icons/icon-57.png",
+      "default_popup": "compact.html"
+   },
+   "author": "Opera Software AS",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Gaming Deals Extension",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "externally_connectable": {
+      "ids": [ "ijcflbogjpkmfhbbikopgkcojpdaldjm" ]
+   },
+   "host_permissions": [ "https://gaming-ext-merchandise.opera-api.com/*", "https://gaming-ext-merchandise.staging-monetization.staging.apps.k8s.am4.osa/*", "https://imgproxy.eneba.games/*", "https://products.eneba.games/*", "http://www.instant-gaming.com/*", "https://cdn.loaded.com/*", "https://cdn.fanatical.com/*", "https://images.g2a.com/*", "https://shared.akamai.steamstatic.com/*", "https://cdn.cloudflare.steamstatic.com/*", "https://shared.fastly.steamstatic.com/*", "https://images.kinguin.net/*", "https://store.steampowered.com/*", "https://www.instant-gaming.com/*", "https://www.eneba.com/*", "https://www.g2a.com/*", "https://www.kinguin.net/*", "https://www.fanatical.com/*", "https://www.loaded.com/*", "https://static.kinguin.net/media/images/products/*" ],
+   "icons": {
+      "128": "icons/icon-512.png",
+      "16": "icons/icon-57.png",
+      "48": "icons/icon-57.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsCugnNn2aGywPPJqqd3zJJ/cJfNL3ms/CYDJkrrECR7A6Mevfp9/RUaBYTZftn7r+O0RtoQBWIGTjCDCDKAFMtlSsgGqWa+WeuQK9AZQB4PZP5RHQfp7Gb1uNSuCapW3DmDbZaQlq+awVqW5suLslor12Vvb40wTI7iYD3u5MKMWoD5EWKvQNzR0EJQq7BelMoGA3lhgbAJX1cl7/NnO+ooSVjFDi7g4mQkteh0A3eJB3dEhjIBDrU9CGWZ4rINlBPA2UUppKWYFLVymb7a412kUvbI6FL0QK+Mf1Bp2otrDv3WNObL6zGTMxNi6651oNtV2vLlMSRSocnm15z0lewIDAQAB",
+   "manifest_version": 3,
+   "name": "My Games",
+   "permissions": [ "tabs", "activeTab", "alarms", "scripting", "storage", "gxGamingExtensionPrivate", "locationPrivate", "statsPrivate", "browserSidebarPrivate", "feedbackPopupPrivate", "operaBrowserPrivate", "contextMenusPrivate", "palette" ],
+   "sidebar_action": {
+      "default_icon": "icons/icon-57.png",
+      "default_panel": "popup.html",
+      "panel_width": 459
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.2.332"
+}

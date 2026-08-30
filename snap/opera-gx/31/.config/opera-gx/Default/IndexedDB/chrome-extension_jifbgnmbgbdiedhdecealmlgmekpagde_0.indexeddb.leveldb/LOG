@@ -1,0 +1,13 @@
+2026/08/31-00:17:53.883 4c05 Reusing MANIFEST /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/chrome-extension_jifbgnmbgbdiedhdecealmlgmekpagde_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/31-00:17:53.883 4c05 Recovering log #4
+2026/08/31-00:17:53.884 4c05 Reusing old log /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/chrome-extension_jifbgnmbgbdiedhdecealmlgmekpagde_0.indexeddb.leveldb/000004.log 
+2026/08/31-00:17:54.393 4c2d Level-0 table #8: started
+2026/08/31-00:17:54.395 4c2d Level-0 table #8: 1315 bytes OK
+2026/08/31-00:17:54.399 4c2d Delete type=0 #4
+2026/08/31-00:17:54.399 4c2d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/31-01:03:35.703 4c2d Compacting 1@1 + 1@2 files
+2026/08/31-01:03:35.707 4c2d Generated table #9@1: 136 keys, 2081 bytes
+2026/08/31-01:03:35.707 4c2d Compacted 1@1 + 1@2 files => 2081 bytes
+2026/08/31-01:03:35.709 4c2d compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/31-01:03:35.710 4c2d Delete type=2 #5
+2026/08/31-01:03:35.710 4c2d Delete type=2 #8

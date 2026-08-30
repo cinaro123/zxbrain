@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cinar/Videos/Screencasts/Screencast%20From%202026-08-31%2000-07-28.webm" added="2026-08-30T21:07:41.263043Z" modified="2026-08-30T21:07:41.263047Z" visited="2026-08-30T21:07:41.263044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/webm"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Shell.Screencast" exec="&apos;org.gnome.Shell.Screencast %u&apos;" modified="2026-08-30T21:07:41.263045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-07-51.png" added="2026-08-30T21:07:51.101857Z" modified="2026-08-30T21:07:53.150921Z" visited="2026-08-30T21:07:51.101857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:07:51.101858Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-08-30T21:07:53.150919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-09-08.png" added="2026-08-30T21:09:08.438709Z" modified="2026-08-30T21:09:08.438713Z" visited="2026-08-30T21:09:08.438710Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:09:08.438710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-10-25.png" added="2026-08-30T21:10:25.646152Z" modified="2026-08-30T21:10:25.646154Z" visited="2026-08-30T21:10:25.646153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:10:25.646153Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-10-53.png" added="2026-08-30T21:10:53.077818Z" modified="2026-08-30T21:10:53.077821Z" visited="2026-08-30T21:10:53.077819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:10:53.077819Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-11-31.png" added="2026-08-30T21:11:31.354217Z" modified="2026-08-30T21:11:31.354218Z" visited="2026-08-30T21:11:31.354217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:11:31.354217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-13-55.png" added="2026-08-30T21:13:55.443590Z" modified="2026-08-30T21:13:55.443592Z" visited="2026-08-30T21:13:55.443590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:13:55.443591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-14-40.png" added="2026-08-30T21:14:40.751538Z" modified="2026-08-30T21:14:40.751540Z" visited="2026-08-30T21:14:40.751538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:14:40.751539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-16-22.png" added="2026-08-30T21:16:22.959181Z" modified="2026-08-30T21:16:22.959182Z" visited="2026-08-30T21:16:22.959181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:16:22.959181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-26-15.png" added="2026-08-30T21:26:15.472776Z" modified="2026-08-30T21:26:15.472778Z" visited="2026-08-30T21:26:15.472776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:26:15.472777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-41-27.png" added="2026-08-30T21:41:27.863080Z" modified="2026-08-30T21:41:27.863082Z" visited="2026-08-30T21:41:27.863081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:41:27.863081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-42-46.png" added="2026-08-30T21:42:46.312469Z" modified="2026-08-30T21:42:46.312470Z" visited="2026-08-30T21:42:46.312469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:42:46.312469Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-44-51.png" added="2026-08-30T21:44:51.111838Z" modified="2026-08-30T21:44:51.111840Z" visited="2026-08-30T21:44:51.111838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:44:51.111839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-47-45.png" added="2026-08-30T21:47:45.539780Z" modified="2026-08-30T21:47:45.539781Z" visited="2026-08-30T21:47:45.539780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:47:45.539780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-50-48.png" added="2026-08-30T21:50:48.694181Z" modified="2026-08-30T21:50:48.694183Z" visited="2026-08-30T21:50:48.694181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:50:48.694181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-51-28.png" added="2026-08-30T21:51:28.602288Z" modified="2026-08-30T21:51:28.602291Z" visited="2026-08-30T21:51:28.602289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:51:28.602289Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-52-23.png" added="2026-08-30T21:52:23.530804Z" modified="2026-08-30T21:52:23.530806Z" visited="2026-08-30T21:52:23.530805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:52:23.530805Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-56-28.png" added="2026-08-30T21:56:28.129272Z" modified="2026-08-30T21:56:28.129273Z" visited="2026-08-30T21:56:28.129272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:56:28.129272Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-57-32.png" added="2026-08-30T21:57:32.642339Z" modified="2026-08-30T21:57:32.642341Z" visited="2026-08-30T21:57:32.642340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:57:32.642340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-58-18.png" added="2026-08-30T21:58:18.540245Z" modified="2026-08-30T21:58:18.540247Z" visited="2026-08-30T21:58:18.540246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:58:18.540246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2000-59-26.png" added="2026-08-30T21:59:26.710032Z" modified="2026-08-30T21:59:26.710033Z" visited="2026-08-30T21:59:26.710032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T21:59:26.710032Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-00-12.png" added="2026-08-30T22:00:12.121041Z" modified="2026-08-30T22:00:12.121043Z" visited="2026-08-30T22:00:12.121042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:00:12.121042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-01-30.png" added="2026-08-30T22:01:30.306466Z" modified="2026-08-30T22:01:30.306468Z" visited="2026-08-30T22:01:30.306467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:01:30.306467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-03-28.png" added="2026-08-30T22:03:28.821307Z" modified="2026-08-30T22:03:28.821309Z" visited="2026-08-30T22:03:28.821308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:03:28.821308Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-04-09.png" added="2026-08-30T22:04:09.621889Z" modified="2026-08-30T22:04:09.621890Z" visited="2026-08-30T22:04:09.621889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:04:09.621889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-08-21.png" added="2026-08-30T22:08:21.312413Z" modified="2026-08-30T22:08:21.312415Z" visited="2026-08-30T22:08:21.312414Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:08:21.312414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cinar/Pictures/Screenshots/Screenshot%20From%202026-08-31%2001-09-04.png" added="2026-08-30T22:09:04.767741Z" modified="2026-08-30T22:09:04.767743Z" visited="2026-08-30T22:09:04.767742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-30T22:09:04.767742Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

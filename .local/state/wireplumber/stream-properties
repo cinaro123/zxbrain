@@ -1,0 +1,5 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Output/Audio:media.role:Notification={"channelVolumes":[1.000000, 1.000000], "channelMap":[], "volume":1.000000, "mute":false}
+Output/Audio:application.name:Opera={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:media.role:Music={"channelVolumes":[1.000000, 1.000000], "channelMap":["UNK", "UNK"], "mute":false, "volume":1.000000}

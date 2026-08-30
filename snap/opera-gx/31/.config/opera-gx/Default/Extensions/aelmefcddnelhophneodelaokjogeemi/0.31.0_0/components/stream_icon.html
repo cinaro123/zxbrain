@@ -1,0 +1,278 @@
+<style>
+  img, a, input {
+    outline: 0;
+  }
+
+  :host {
+    display: flex;
+    flex-direction: row;
+    min-height: var(--stream-icon-height);
+    min-width: var(--stream-icon-width);
+  }
+
+  /* Avatar grid */
+  a.avatar {
+    display: inline-block;
+    height: var(--stream-icon-height);
+    margin: var(--small-margin);
+    position: relative;
+    width: var(--stream-icon-width);
+  }
+
+  /* Online indicator */
+  .onlineIcon {
+    display: block !important;
+    height: 10px;
+    position: absolute;
+    right: 0;
+    top: 8px;
+    width: 12px;
+    opacity: 0;
+    transition: opacity 0.15s ease-in-out;
+  }
+
+  .active .onlineIcon {
+    opacity: 1;
+  }
+
+  /* Grayscaled avatar */
+
+  .avatar {
+    clip-path: polygon(0% 100%, 0 9%, 9% 0, 100% 0, 100% 91%, 91% 100%);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .avatar img {
+    pointer-events: none;
+  }
+
+  .avatar img.streamIcon {
+    border-radius: 4px;
+    cursor: hand;
+    filter: grayscale(100%) brightness(0.7);
+    height: var(--stream-icon-height);
+    object-fit: fill;
+    width: var(--stream-icon-width);
+  }
+
+  .avatar svg {
+    display: none;
+  }
+
+  .avatar *[src=""] {
+    display: none;
+  }
+
+  .avatar *[src=""] + svg {
+    display: block;
+  }
+
+  /* Color avatar */
+  .avatar.active img.streamIcon,
+  .avatar.dummy img.streamIcon {
+    filter: none;
+  }
+
+  .avatar .gameIcon.small {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+  }
+
+  .avatar .gameIcon.hidden {
+    display: none;
+  }
+
+  .slide-in-start {
+    transition:
+      transform 0.15s ease-out,
+      box-shadow  0.15s ease-out;
+    width: 54.44px;
+    height: var(--stream-icon-height);
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    transform: translateX(-55.44px);
+    box-shadow: 0px 0px 15.5556px transparent;
+  }
+
+  .gameIcon.slide-in-start.long-hovered {
+    transform: translateX(0px);
+    box-shadow: 0px 0px 15.5556px rgba(0, 0, 0, 0.5);
+  }
+
+  .gameIcon.small {
+    transition: width 0.15s, height 0.15s;
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+  }
+
+  .gameIcon.small.long-hovered {
+    transition:
+      width 0.15s,
+      height 0.15s;
+    width: 54.44px;
+    height: 70px;
+  }
+
+  #stream-icon_details{
+    width: 148px;
+    height: var(--stream-icon-height);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-left: 8px;
+  }
+
+  #stream-icon_details.hidden {
+    display: none;
+  }
+
+  #stream-icon_name, #stream-icon_title, #stream-icon_game-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    font-size: 12px;
+  }
+
+  #stream-icon_name {
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--base-font-color);
+  }
+
+  #stream-icon_title {
+    -webkit-line-clamp: 2;
+    flex: none;
+    font-size: 12px;
+    font-weight: normal;
+    color: var(--secondary-font-color);
+  }
+
+  #stream-icon_game-title {
+    font-size: 12px;
+    font-weight: normal;
+    color: var(--base-font-color);
+  }
+
+  svg .gameIconGroup {
+    display: none;
+  }
+
+  svg .gameIconGroupGx {
+    display: block;
+  }
+
+  #stream-icon_details {
+    margin-left: var(--gx-spacing-xs);
+  }
+
+  .avatarIconDefaultGx {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .gameIcon.small {
+    box-shadow: none;
+
+    &.long-hovered {
+      width: 67px;
+      height: 80px;
+    }
+  }
+
+  .avatar {
+    clip-path: none;
+    margin: 0;
+
+    &.dummy {
+      width: 144px;
+      height: 144px;
+
+      .gameIcon {
+        &.small {
+          width: 67px;
+          height: 80px;
+          left: 0;
+          bottom: 6px;
+
+          &.long-hovered {
+            width: 104px;
+            height: 126px;
+          }
+        }
+
+        &.slide-in-start {
+          width: 67px;
+          box-shadow: none;
+          transform: translateX(-69px);
+          left: 0px;
+          bottom: 2px;
+
+          &.long-hovered {
+            transform: translateX(0px);
+            box-shadow: none;
+          }
+        }
+      }
+    }
+  }
+
+
+</style>
+
+<!-- if no src then display svg -->
+
+<a class="avatar" href="" target="_blank" id='stream-icon_link' tabindex="-1">
+  <img src="" class="streamIcon" id='stream-icon_image'>
+
+  <svg class="avatarIconDefault avatarIconDefaultGx" width="37" height="42" viewBox="0 0 37 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 15C21.8137 15 24.5 12.3137 24.5 9C24.5 5.68629 21.8137 3 18.5 3C15.1863 3 12.5 5.68629 12.5 9C12.5 12.3137 15.1863 15 18.5 15ZM18.5 18C23.4706 18 27.5 13.9706 27.5 9C27.5 4.02944 23.4706 0 18.5 0C13.5294 0 9.5 4.02944 9.5 9C9.5 13.9706 13.5294 18 18.5 18Z" fill="#5A517B"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5 39H33.5V28.2426L29.2574 24H7.74264L3.5 28.2426V39ZM0.5 27L6.5 21H30.5L36.5 27V42H0.5V27Z" fill="#5A517B"/>
+  </svg>
+    
+  <img src="" class="gameIcon" id='stream-icon_game-image'>
+
+  <svg class="gameIcon gameIconGx default" width="67" height="80" viewBox="0 0 67 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0.5" width="66" height="80" rx="3" fill="env(-gx-color-secondary-20-80, var(--palette-gx_no_20))"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M30.4444 36.6L26.1667 40L22.5 38.8667V23H44.5V38.8667L40.8333 40L37.1667 36.6H30.4444ZM41.2411 38.254L37.7907 35.0545H29.8888L25.8341 38.2772L24.0714 37.7324V24.5455H42.9286V37.7324L41.2411 38.254Z" fill="env(-gx-color-text-4, var(--palette-gx_no_58))"/>
+    <path d="M30.3571 31.5C30.3571 32.7803 29.3018 33.8182 28 33.8182C26.6982 33.8182 25.6429 32.7803 25.6429 31.5C25.6429 30.2197 26.6982 29.1818 28 29.1818C29.3018 29.1818 30.3571 30.2197 30.3571 31.5Z" fill="env(-gx-color-text-4, var(--palette-gx_no_58))"/>
+    <path d="M41.3571 31.5C41.3571 32.7803 40.3018 33.8182 39 33.8182C37.6982 33.8182 36.6429 32.7803 36.6429 31.5C36.6429 30.2197 37.6982 29.1818 39 29.1818C40.3018 29.1818 41.3571 30.2197 41.3571 31.5Z" fill="env(-gx-color-text-4, var(--palette-gx_no_58))"/>
+    <rect x="6.5" y="47" width="53" height="8" rx="2" fill="env(-gx-color-secondary-12-92, var(--palette-gx_no_12))"/>
+    <rect x="17.5" y="57" width="31" height="4" rx="1" fill="env(-gx-color-secondary-12-92, var(--palette-gx_no_12))"/>
+  </svg>
+
+  <svg width="12" height="10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 12 10" class="onlineIcon">
+    <defs>
+      <circle id="b" cx="5" cy="5" r="3"/>
+      <filter x="-75%" y="-75%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+        <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+        <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+        <feColorMatrix values="0 0 0 0 0.980392157 0 0 0 0 0.117647059 0 0 0 0 0.305882353 0 0 0 1 0" in="shadowBlurOuter1"/>
+      </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+      <path d="M5 0h7v10H5A5 5 0 1 1 5 0z" fill="#06030D"/>
+      <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+      <use fill="var(--opera-primary-color)" xlink:href="#b"/>
+    </g>
+  </svg>
+</a>
+
+
+<div id="stream-icon_details">
+  <div id="stream-icon_name"></div>
+  <div id="stream-icon_title"></div>
+  <div id="stream-icon_game-title"></div>
+</div>

@@ -1,0 +1,31 @@
+{
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "developer": {
+      "name": "Opera Software"
+   },
+   "externally_connectable": {
+      "ids": [ "iadifhcoomlippfncokcbkajgmhjaglm" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "public/icons/logo_128.png",
+      "16": "public/icons/logo_16.png",
+      "32": "public/icons/logo_32.png",
+      "48": "public/icons/logo_48.png",
+      "64": "public/icons/logo_64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtE83W+Or6u58VWII327fjKeM/j2rk5e3eJWqE+wMbBuMnwuX1TCiYO03LD2LyoEoWDWUylvNRsevjmbSBFVpaPGwl3c9gMC8G63CPzRVP/VR2/z98/t5OWqAdXqjcRUsoyt4o6T54aig9X5kCp4qShq8FvsP07DQ9X5GKG8UlA2sBVMJ3KdaOFe+cdEdoasTMZjIdSyen7TCw8NWp0tv6Dx1LAotqrYcbO/ODD0Xk4PNRzYq3UZwT54as/vyqDOFTrJjKDpZr1kg6U327jpC3vYCHiD3E/JvgXLURuT394AdNZPv1fRqFc1wMjfKbh9wqpaqIdVI5I+x3xMA8iykZwIDAQAB",
+   "manifest_version": 3,
+   "name": "Continue On Support",
+   "permissions": [ "activeTab", "alarms", "continueOnSupportPrivate", "operaResourcesPrivate", "scripting", "statsPrivate", "storage", "tabs" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.0.7",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "assets/scraping-method-Dq4mm50p.js", "assets/entry.ts-B3viNbS6.js" ],
+      "use_dynamic_url": false
+   } ]
+}

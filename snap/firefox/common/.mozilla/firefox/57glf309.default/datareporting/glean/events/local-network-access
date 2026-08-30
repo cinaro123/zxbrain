@@ -1,0 +1,2 @@
+{"timestamp":2589244,"category":"networking","name":"local_network_access_connection","extra":{"load_success":"false","glean_timestamp":"1788106764255","protocol":"http","top_level_site":"discord.com","target_ip":"127.0.0.1","is_secure_context":"true","initiator":"discord.com","target_port":"6463"}}
+{"timestamp":6623817,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-08-31T01:04+03:00","glean_timestamp":"1788127443829"},"execution_counter":1}

@@ -1,0 +1,5 @@
+2026/08/31-00:16:34.660 5286 Creating DB /home/cinar/snap/spotify/common/.cache/spotify/Browser/Local Storage/leveldb since it was missing.
+2026/08/31-00:16:34.670 5286 Reusing MANIFEST /home/cinar/snap/spotify/common/.cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2026/08/31-00:19:13.534 528f Level-0 table #5: started
+2026/08/31-00:19:13.536 528f Level-0 table #5: 38485 bytes OK
+2026/08/31-00:19:13.538 528f Delete type=0 #3

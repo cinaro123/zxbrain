@@ -1,0 +1,7 @@
+[default-routes]
+alsa_card.pci-0000_0d_00.4:output:iec958-stereo-output={"iec958Codecs":[], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.552553, 0.552553], "mute":false}
+alsa_card.pci-0000_0d_00.4:profile:output:iec958-stereo+input:analog-stereo=["iec958-stereo-output"]
+alsa_card.pci-0000_0b_00.1:output:hdmi-output-3={"iec958Codecs":["PCM"], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+alsa_card.pci-0000_0b_00.1:profile:output:hdmi-stereo-extra3=["hdmi-output-3"]
+alsa_card.pci-0000_0d_00.4:output:analog-output-headphones={"channelVolumes":[1.000000, 1.000000], "mute":false, "latencyOffsetNsec":0, "channelMap":["FL", "FR"]}
+alsa_card.pci-0000_0d_00.4:profile:output:analog-stereo+input:analog-stereo=["analog-output-headphones"]

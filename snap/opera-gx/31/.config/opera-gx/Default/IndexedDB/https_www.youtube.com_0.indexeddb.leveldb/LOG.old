@@ -1,0 +1,15 @@
+2026/08/30-23:25:45.959 1df7 Reusing MANIFEST /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/30-23:25:45.960 1df7 Recovering log #7
+2026/08/30-23:25:45.963 1df7 Reusing old log /home/cinar/snap/opera-gx/31/.config/opera-gx/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2026/08/31-00:02:51.614 1df6 Level-0 table #12: started
+2026/08/31-00:02:51.622 1df6 Level-0 table #12: 1448182 bytes OK
+2026/08/31-00:02:51.625 1df6 Delete type=0 #7
+2026/08/31-00:02:51.625 1df6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/08/31-00:02:51.625 1df6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x10\x02\x1f\x03\xcd\x1c\x08\x99G\x05zB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 8776 : 1
+2026/08/31-00:02:51.625 1df6 Compacting 1@1 + 1@2 files
+2026/08/31-00:02:51.629 1df6 Generated table #13@1: 610 keys, 121943 bytes
+2026/08/31-00:02:51.629 1df6 Compacted 1@1 + 1@2 files => 121943 bytes
+2026/08/31-00:02:51.631 1df6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/31-00:02:51.631 1df6 Delete type=2 #12
+2026/08/31-00:02:51.631 1df6 Delete type=2 #9
+2026/08/31-00:02:51.632 1df6 Manual compaction at level-1 from '\x00\x10\x02\x1f\x03\xcd\x1c\x08\x99G\x05zB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 8776 : 1 .. (end); will stop at (end)

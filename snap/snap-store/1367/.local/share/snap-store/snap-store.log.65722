@@ -1,0 +1,20 @@
+2026-08-30 19:28:47.353266 ERROR error_observer: Provider storeSnapProvider:StoreSnapProvider#a40ba(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.353428 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#034b7(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.353491 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6a6e4(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.367526 ERROR error_observer: Provider storeSnapProvider:StoreSnapProvider#02bd8(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.367678 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#085d8(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.367780 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c8f22(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.370167 ERROR error_observer: Provider storeSnapProvider:StoreSnapProvider#4211a(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.370233 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#798b1(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.370269 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#f6400(null) failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)
+2026-08-30 19:28:47.882562 ERROR error_observer: Provider StreamProvider<List<Snap>>#2edb5(Instance of 'SnapSearchParameters') failed
+	SnapdException: SnapdException(kind: null, message: too many requests, status: Internal Server Error, statusCode: 500)

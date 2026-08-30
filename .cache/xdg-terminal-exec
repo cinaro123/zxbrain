@@ -1,0 +1,11 @@
+f5dbaacad0fd8377b82c47dfdd9707e6
+ptyxis
+/usr/share/applications/./org.gnome.Ptyxis.desktop
+org.gnome.Ptyxis.desktop
+new-window
+--
+--gapplication-app-id
+--title
+--working-directory
+
+ptyxis--new-windowEND_OF_EXEC_USEP

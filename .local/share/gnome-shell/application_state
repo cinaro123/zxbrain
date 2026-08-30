@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="spotify_spotify.desktop" score="31" last-seen="1788124895"/>
+    <application id="snap-store_snap-store.desktop" score="10" last-seen="1788104757"/>
+    <application id="org.gnome.Settings.desktop" score="68" last-seen="1788124315"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1788104215"/>
+    <application id="firefox_firefox.desktop" score="1" last-seen="1788127450"/>
+    <application id="org.gnome.Loupe.desktop" score="0" last-seen="1788124074"/>
+    <application id="discord_discord.desktop" score="2" last-seen="1788106765"/>
+    <application id="org.gnome.Ptyxis.desktop" score="203" last-seen="1788127451"/>
+    <application id="opera-gx_opera-gx.desktop" score="827" last-seen="1788127427"/>
+    <application id="org.gnome.Nautilus.desktop" score="1" last-seen="1788107111"/>
+    <application id="gnome-keyboard-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>

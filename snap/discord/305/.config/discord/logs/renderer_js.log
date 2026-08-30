@@ -1,0 +1,153 @@
+[2026-08-30 18:41:32.844] [info]  splashScreenPreload: signalReady
+[2026-08-30 18:41:32.884] [info]  splashScreenPreload: onStateUpdate: {"status":"checking-for-updates"}
+[2026-08-30 18:41:32.885] [info]  splashScreenPreload: onStateUpdate: {"status":"launching"}
+[2026-08-30 18:41:37.101] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:41:44.054] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:41:54.471] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:42:05.301] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:42:26.936] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:42:50.966] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:43:14.987] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:43:39.005] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:44:03.032] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:44:27.046] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:44:51.079] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:45:15.095] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:45:39.120] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:46:03.132] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:46:27.162] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:46:51.182] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:47:13.641] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:47:33.694] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:47:53.737] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:48:13.787] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:48:34.860] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:48:54.905] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:49:16.014] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:49:36.058] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:49:56.100] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:50:16.147] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:50:36.193] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:50:58.657] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:51:18.702] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:51:38.746] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 18:51:58.791] [error] Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2026-08-30 19:19:15.010] [info]  splashScreenPreload: signalReady
+[2026-08-30 19:19:15.053] [info]  splashScreenPreload: onStateUpdate: {"status":"checking-for-updates"}
+[2026-08-30 19:19:15.054] [info]  splashScreenPreload: onStateUpdate: {"status":"launching"}
+[2026-08-30 19:19:17.901] [info]  [libdiscore] [experiment_manager] Loaded experiments from cache
+[2026-08-30 19:19:18.101] [info]  Initializing voice engine with audio subsystem: standard
+[2026-08-30 19:19:18.254] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 603738, Version Hash: 49257f8818498b803ebc3b55511ccca0da28723c
+[2026-08-30 19:19:18.259] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2026-08-30 19:19:18.383] [info]  [default] [NATIVE INFO] host 1.0.155, modules: , build: null
+[2026-08-30 19:19:18.389] [info]  [libdiscore] The answer for life the universe and everything is: 42
+[2026-08-30 19:19:19.022] [info]  [RPCServer:WSS] Starting on 6463
+[2026-08-30 19:19:19.023] [info]  [RPCServer:IPC] Starting on /run/user/1000/snap.discord/discord-ipc-0
+[2026-08-30 19:19:20.184] [info]  [MediaEngineStore] OpenH264 download status [object Object]
+[2026-08-30 19:19:20.265] [info]  [MediaEngineStore] OpenH264 download status [object Object]
+[2026-08-30 19:19:20.396] [info]  [MediaEngineStore] OpenH264 is ready [object Object]
+[2026-08-30 19:19:20.398] [info]  OpenH264 cleanup: Deleted unused file "libopenh264-2.5.1-linux64.7.so.bz2"
+[2026-08-30 19:19:20.399] [info]  OpenH264 cleanup: Deleted 1 unused files
+[2026-08-30 19:19:20.399] [info]  [MediaEngineStore] OpenH264 cleanup [object Object]
+[2026-08-30 19:19:24.206] [info]  [RPCServer:WSS] Socket Message: 4 [object Object]
+[2026-08-30 19:19:24.246] [info]  [useAuthWebsocket] [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2
+[2026-08-30 19:19:24.246] [info]  [RPCServer:WSS] Socket Emit: 4 [object Object]
+[2026-08-30 19:19:24.336] [info]  [useAuthWebsocket] [91ms] disconnected, error: {"isTrusted":true}
+[2026-08-30 19:19:24.336] [error] [useAuthWebsocket] Could not complete Remote Auth login, trying to restart with a new Remote Auth session.
+[2026-08-30 19:19:24.336] [info]  [useAuthWebsocket] [91ms] disconnected, code: 1006 
+[2026-08-30 19:19:24.336] [error] [useAuthWebsocket] Could not complete Remote Auth login, trying to restart with a new Remote Auth session.
+[2026-08-30 19:19:27.012] [info]  [useAuthWebsocket] document is not visible, will defer reconnection when document becomes visible.
+[2026-08-30 19:19:56.012] [info]  [WindowVisibilityVideoManager] Incoming video enabled changed, incomingVideoEnabled = false
